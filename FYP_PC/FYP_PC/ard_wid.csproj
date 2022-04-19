@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5B2480E2-CE55-4B0D-A158-AF540D9DB089}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>FYP_PC</RootNamespace>
-    <AssemblyName>FYP_PC</AssemblyName>
+    <RootNamespace>ard_wid</RootNamespace>
+    <AssemblyName>ard_wid</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
