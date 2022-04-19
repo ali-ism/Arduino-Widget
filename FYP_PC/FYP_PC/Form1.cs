@@ -15,7 +15,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 using System.Collections;
 using System.Threading;
 
-namespace FYP_PC
+namespace ard_wid
 {
     public partial class Form1 : Form
     {
