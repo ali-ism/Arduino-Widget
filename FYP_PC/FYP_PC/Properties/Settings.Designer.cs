@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace FYP_PC.Properties
+namespace ard_wid.Properties
 {
 
 
