@@ -1,4 +1,4 @@
-﻿namespace FYP_PC
+﻿namespace ard_wid
 {
     partial class Form1
     {
